@@ -1,1 +1,1 @@
-我的mytmux配置
+我的tmux配置
